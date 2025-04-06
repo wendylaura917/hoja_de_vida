@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: wheat;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.titulos{
+    text-align: center;
+    color: black;
+}
+
+.logo{
+    border-radius: 15px;
+    padding-top: 10px;
+}
+
+.fondo2{
+    background-color: darkorchid;
+    padding: 50px;
+    margin: 80px;
+    border-radius: 20px;
+}
+
+.contenido{
+    background-color: hotpink;
+    margin: 50px;
+    padding: 80px;
+    border-radius: 10px;
+}
+
+.datos{
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.formacion{
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.idioma{
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.pasatiempo{
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.laboral{
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.referencia{
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.peliculas{
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+legend{
+    background-color: rgba(102, 101, 101, 0.37);
+    color: rgb(0, 0, 0);
+    padding: 5px;
+    border-radius: 10px;
+}
+
+legend:hover{
+    background-color: white;
+    color: black;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.nombre {
+    font-weight: 900;
+    
+}
