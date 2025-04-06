@@ -75,13 +75,6 @@ body{
     font-family: 'Times New Roman', Times, serif;
 }
 
-.peliculas{
-    padding: 20px;
-    margin: 20px;
-    border-radius: 10px;
-    font-family: 'Times New Roman', Times, serif;
-}
-
 legend{
     background-color: rgba(102, 101, 101, 0.37);
     color: rgb(0, 0, 0);
@@ -98,5 +91,26 @@ legend:hover{
 
 .nombre {
     font-weight: 900;
-    
+}
+
+.peliculas {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.imagenes {
+    display: flex; 
+    gap: 20px; 
+}
+
+.pelicula img {
+    display: block;
+    margin: 0 auto; 
+}
+
+h3{
+    text-align: center;
 }
